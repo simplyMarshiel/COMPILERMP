@@ -1,0 +1,21 @@
+X22_BroDudeTsong
+S18_BornalesLuisYuvallos
+S17_JTech
+S18_Team8_1
+S18_Team8_2 -- semantic error caught
+S18_TeamOnAndPumbaa
+S18_SouthSuperiority
+X22_HO1_1 -- fucked up
+X22_HO1_2 -- fucked up
+X22_Infiniteam -- line 6:12 mismatched input '=' expecting END
+X22_Professional -- line 5:1 mismatched input 'write' expecting ':' (TRUE POSITIVE)
+X22_Team_E-Turner1
+X22_Team_Hortons
+X22_Team_Mon_And_Pumba
+X22_Team_Unhitched
+X22_Teamberwolves
+X22_Walapapo
+S17_AngeLouiseSophia_assign -- WTF
+S17_AngeLouiseSophia_condAndArray
+S17_AngeLouiseSophia_subroutines
+S18_Sakana -- IDK WHAT'S HAPPENING HERE
